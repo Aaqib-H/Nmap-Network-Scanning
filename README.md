@@ -15,6 +15,15 @@ The project aimed to use Nmap for network scanning and security auditing. Throug
 - Vulnerability detection to identify potential security risks
 - Customized scans and output management for efficient reporting
   
+### Steps:
+- Verified Nmap installation and version.
+- Referenced man pages and help features for guidance.
+- Scanned for active hosts, open ports, services, and operating system details.
+- Customized scans and saved results for later analysis.
+  
+### Outcome
+Successfully identified open ports and vulnerabilities within the target environment.
+
 ### Project Certificate Of Completion
 ![cert](https://github.com/user-attachments/assets/328df5d4-0ba6-4a26-8a90-89f1ca2f66a5)
 
